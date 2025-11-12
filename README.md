@@ -5,7 +5,7 @@
 <body>
 
   <img src="Final menu 2.0_page-0001.jpg" alt="Menu Page 1">
-  <img src="Screen Shot 2025-11-12 at 9.03.33 PM.png" alt="Menu Page 2">
+  <img src="3.0-images-1.jpg" alt="Menu Page 2">
   <img src="Final menu 2.0_page-0003.jpg" alt="Menu Page 3">
   <img src="Final menu 2.0_page-0004.jpg" alt="Menu Page 4">
   <img src="Final menu 2.0_page-0005.jpg" alt="Menu Page 5">
